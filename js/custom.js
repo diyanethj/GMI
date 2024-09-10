@@ -148,7 +148,7 @@ jQuery(function($) {
       navigation : false, // Show next and prev buttons
       slideSpeed : 400,
       pagination:false,
-      items : 5,
+      items : 3,
       rewindNav: true,
       itemsDesktop : [1199,3],
       itemsDesktopSmall : [979,3],
